@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4ab81a-cdf7-4f32-97fe-28f6ad04af8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/robot-tests.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/EndtoEnd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/custom_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Keywords.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Variables.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Connection.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Flow.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

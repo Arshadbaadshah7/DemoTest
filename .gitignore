@@ -1,0 +1,13 @@
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Robot reports
+results/
+output.xml
+log.html
+report.html
